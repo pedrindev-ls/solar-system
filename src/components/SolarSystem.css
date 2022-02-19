@@ -1,0 +1,8 @@
+.main {
+  margin-top: 2%;
+}
+
+.planets {
+  display: flex;
+  justify-content: center;
+}
